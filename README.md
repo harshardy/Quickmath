@@ -4,5 +4,5 @@ Built on the robust foundation of HTML5, CSS, and JavaScript, "Quick Math" ensur
 
 Experience the convenience of on-the-go math problem-solving with "Quick Math".
 
-Follow below link for the live page 
+Follow link for the live page 
 https://quickmath-1x1unufci-harsha-reddys-projects.vercel.app/
